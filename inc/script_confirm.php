@@ -1,0 +1,1 @@
+<script src="./js/alert_confirm.js"></script>
